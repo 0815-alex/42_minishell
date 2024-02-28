@@ -80,7 +80,7 @@ Thx to all those guys and gals for hints, tipps and feedback!
 [@Margarida](https://github.com/MariaAguiar)\
 [@Manuel](https://github.com/manuel-aguiar)
 
-And obviously, since this project is a group project, to my fantastic team partner [@Anatolii](https://github.com/AshParker19).
+And obviously, since this project is a group project, to my fantastic team partner [@Anatolii](https://github.com/AshParker19). :rocket:
 
 ---
 
