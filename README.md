@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="./">
-    <img src="images/logo.png" alt="Logo" width="600">
+    <img src="images/logo.png" alt="Logo" height="300">
   </a>
   <h1 align="center">frankenshell</h1>
 <p align="center">
