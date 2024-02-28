@@ -61,9 +61,15 @@ $ exit                                                    # Exit
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-**frankenshell** is designed to mimic the behavior of the traditional [:link: **bash shell**][url-bash]. So feel free to use it like bash.
 
-[![Example][example-gif]][link-docs]
+
+<div align="center">
+ <img src="/images/example.gif" alt="Logo" width="600"> 
+ <p align="center">
+	 frankenshell is designed to mimic the behavior of the traditional <a href="https://de.wikipedia.org/wiki/Bash_(Shell)" target="_blank">bash shell</a>.<br>
+	 So feel free to use it like bash :)
+ </p>
+</div>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -74,14 +80,15 @@ Thx to all those guys and gals for hints, tipps and feedback!
 [@Margarida](https://github.com/MariaAguiar)\
 [@Manuel](https://github.com/manuel-aguiar)
 
----
-
-<a href="./docs/documentation.md"><strong>»»» Explore the Documentation!</strong></a>
+And obviously, since this project is a group project, to my fantastic team partner [@Anatolii](https://github.com/AshParker19).
 
 ---
+
+<div align="center">
+ <a href="./docs/documentation.md"><strong>»»» Explore the Documentation! «««</strong></a>
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[example-gif]: /images/example.gif
 [link-docs]: ./docs/documentation.md
 [url-bash]: https://de.wikipedia.org/wiki/Bash_(Shell)
 [url-42]: https://42.fr/en/homepage/
