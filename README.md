@@ -10,6 +10,7 @@
     <img src="images/logo42.svg" alt="Logo" width="100">
   </a><br>
   This project was created as part of my studies at: <a href="https://www.42lisboa.com" target="_blank">42 Lisboa</a><br>
+  This project is a group project with <a href="https://github.com/AshParker19" target="_blank">AshParker19</a><br
 </div>
 
 ---
