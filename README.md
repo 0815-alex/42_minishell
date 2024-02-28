@@ -45,7 +45,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </b>
-<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
