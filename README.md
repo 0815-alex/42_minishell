@@ -18,48 +18,22 @@
 <br />
 <div align="center">
   <a href="./">
-    <img src="images/logo.gif" alt="Logo" width="600">
+    <img src="images/logo.png" alt="Logo" width="600">
   </a>
-  <h1 align="center">fdf</h1>
+  <h1 align="center">frankenshell</h1>
 <p align="center">
-    The idea of the fdf project, French "fil de fer" for "wireframe model", is to visualise wireframe models. This is done by reading a map with 3-D coordinates from a file and storing it in a linked list. These 3D coordinates are then transformed into 2D coordinates according to the user's preferences and displayed in a window.
+    frankenshell is a version of the 42 School project minishell that recreates a simplified version of the bash shell written in C<br />
+    <a href="./docs/documentation.md"><strong>Explore the docs »</strong></a>
 </p>
 </div>
 <br>
 <!-- PROJECT HEADER END -->
 
 ## :bulb: Lessons learned
-- working with the API of [a graphics library](https://github.com/42Paris/minilibx-linux)
-- understanding points in 2 and 3 dimensional space, vectors and trigonometric functions
-- [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
-- Using a [rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix) to transform coordinates
-
-## Installation
-```
-$ git clone --recurse-submodules https://github.com/ahokcool/fdf.git    # Clone
-$ cd fdf                                                                # Change directory
-$ make                                                                  # Compile
-$ ./fdf map_file                                                        # Run
-```
-
-
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="./">
-    <img src="images/logo.png" alt="Logo" width="224" height="300">
-  </a>
-  <h1 align="center">frankenshell</h1>
-<p align="center">
-    frankenshell is a version of the 42 School project minishell that recreates a simplified version of the bash shell written in C
-    <br />
-    <a href="./docs/documentation.md"><strong>Explore the docs »</strong></a>
-</p>
-</div>
-<br>
+- multiprocessing in C
+- handling fds & pipelining
+- handling UNIX signals
+- and a lot more :)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
