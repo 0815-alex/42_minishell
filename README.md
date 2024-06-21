@@ -31,10 +31,16 @@
 <!-- PROJECT HEADER END -->
 
 ## :bulb: Lessons learned
+<div align="left">
+
 - multiprocessing in C
+	
 - handling fds & pipelining
+
 - handling UNIX signals
+
 - and a lot more :)
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -49,15 +55,19 @@ As ChatGPT said in 2023:
 
 <!-- INSTALLATION -->
 ## Installation
+<div align="left">
+
 ```
 $ git clone https://github.com/ahokcool/frankenshell.git  # Clone
 $ cd frankenshell                                         # Change directory
 $ make                                                    # Compile
 $ ./frankenshell [OPTIONS]                                # Run (Option: --info)
 $ echo "Let's goooooo!"                                   # Use
-	Let's goooooo!
+Let's goooooo!
 $ exit                                                    # Exit
 ```
+
+</div>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
