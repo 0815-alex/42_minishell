@@ -5,21 +5,14 @@
     	<img src="../images/logo.png" alt="Logo" width="224" height="300">
   	</a>
   	<h1 align="center">Documentation of frankenshell</h1>
-Version: 2.1
+Version: 2.2
 <br>
-Date: 2024-01-10
+Date: 2024-06-26
 </div>
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ahokcool" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"><br>
-  </a>
-  If this documentation is helpful for you, feel free to buy me a coffee ;)
-</p>
 
----
 
 **Legend**
 
@@ -2090,14 +2083,6 @@ Thx to those guys and gals for hints, tipps and feedback!
 
 
 
----
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ahokcool" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"><br>
-  </a>
-  If this documentation is helpful for you, feel free to buy me a coffee ;)
-</p>
 
 ---
 
